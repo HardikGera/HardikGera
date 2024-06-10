@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm Hardik Gera, a driven and detail-oriented Comp
 </p>
 
 
-<img align="right" alt="coding" width="400" src="[C:\Users\Owner\Downloads\new gif.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
+<img align="right" alt="coding" width="400" src="![new gif](https://github.com/HardikGera/HardikGera/assets/95163060/43b9930d-794e-4ce1-96d0-6d7ad885b9d2)
+">
 
 
 ### Socials
