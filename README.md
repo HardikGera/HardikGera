@@ -12,7 +12,9 @@ Welcome to my GitHub profile! I'm Hardik Gera, a driven and detail-oriented Comp
 * 🤝  I'm open to collaborating on AI/ML or Data Analysis Projects
 * ⚡  A Caffeine Dependent Life-form
 
-<img src="https://github.com/HardikGera/HardikGera/assets/95163060/5a60c06a-7a61-47c7-9730-a27cdccd437a" width="200" alt="GIF" align="right" />
+<img src="https://github.com/HardikGera/HardikGera/assets/95163060/5a60c06a-7a61-47c7-9730-a27cdccd437a" width="300" alt="GIF" align="right" />
+
+
 ### Skills
 
 <p align="left">
